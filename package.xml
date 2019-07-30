@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>librob_msgs</name>
-  <version>0.0.0</version>
-  <description>The librob_msgs package</description>
+  <version>0.0.1</version>
+  <description>Repo to hold custom ros msg types used in LibRob</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="niklas@todo.todo">niklas</maintainer>
+  <maintainer email="nspielbau@github.com">Niklas Spielbauer</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
